@@ -1,0 +1,43 @@
+#fundo{
+    background: url(imagem/industria.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    margin: 0%;
+    border: solid black;
+    color: white;
+    text-justify: auto;
+    text-emphasis-color: blue
+}
+
+.metade{
+    text-justify: ;
+    text-align: center;
+    border: solid black;
+    width: 49%;
+    height: 49%;
+    float: left;
+    margin: 0%;    
+}
+html{ background-color: darkturquoise;}
+
+.terco{
+    margin: 0%;
+    width: 32%;
+    height: 40%;
+    border: solid black;
+    float: left;
+    text-align: center;
+}
+#industria{
+    background-color: gold;
+}
+#infraestrutura{
+    background-color: limegreen;
+}
+#inovacao{
+    background-color: red;
+}

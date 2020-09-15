@@ -1,0 +1,20 @@
+html{
+    background-color: yellow;
+}
+
+.texto{
+    text-align: justify;
+    
+}
+.metade{
+    text-justify: ;
+    text-align: center;
+    border: solid white;
+    width: 49%;
+    height: 49%;
+    float: left;
+    margin: 0%;    
+}
+#textovideo{
+    background-color: teal;
+}
