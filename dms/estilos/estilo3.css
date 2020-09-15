@@ -1,0 +1,32 @@
+.cabeca{
+    float: left;
+}
+#home{
+    width: 10%;
+    height: 100%;
+}
+#home2{
+    padding-bottom: 2%%;
+    padding-top: 0%;
+    padding-right: 0%;
+    color: black;
+    float: right;
+    border: black;
+}
+#homet{
+    margin: 0%;
+    border: solid black;
+    background: white;
+    height: 15%;
+    width: 100%;
+    padding-top: 0%;
+}
+#home3{
+    height: 100%;
+    border: black;
+}
+#titulo{
+    border:  black;
+    width: 60%;
+    text-align: left;
+}
