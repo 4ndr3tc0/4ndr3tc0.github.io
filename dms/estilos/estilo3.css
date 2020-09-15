@@ -30,3 +30,17 @@
     width: 60%;
     text-align: left;
 }
+.metade{
+    width: 47%;
+    margin: 1%;
+    border: 1%;
+    border:  white;
+    float: left
+}
+#corpo{
+    float: left;
+    margin: 1%;
+}
+html{
+    background-color: greenyellow;
+}

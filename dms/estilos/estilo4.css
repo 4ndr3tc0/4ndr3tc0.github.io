@@ -30,3 +30,10 @@
     width: 60%;
     text-align: left;
 }
+
+section{
+    margin: 3%;
+}
+html{
+    background-color: red;
+}
