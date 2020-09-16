@@ -1,4 +1,5 @@
 #fundo{
+    color: yellow;
     background: url(imagem/ods.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -7,7 +8,7 @@
     height: 70%%;
     text-align: center;
     margin: 0%;
-    border: solid black
+    border: solid black;
 }
 
 .metade{
@@ -79,3 +80,4 @@ section{margin: 3%;}
 #video{
     margin: 1%;
 }
+
